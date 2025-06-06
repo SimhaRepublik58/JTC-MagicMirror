@@ -1,0 +1,2 @@
+# JTCMagicMirror
+My Magic Mirror
